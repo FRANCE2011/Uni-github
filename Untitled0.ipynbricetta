@@ -1,0 +1,107 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyNc9+2zSFGNoENz0ZgHKme0",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/FRANCE2011/Uni-github/blob/master/Untitled0.ipynbricetta\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "tag3GVb8c0eu"
+      },
+      "source": [
+        "#Ricetta pasta alla Gricia\n",
+        "#Ingredienti e Dosi"
+      ],
+      "execution_count": 6,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Pulx6fRKdaRX"
+      },
+      "source": [
+        "**Ingredienti**\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Wiu4gAEJdosa"
+      },
+      "source": [
+        "+ 500g di ***Pasta*** tipo Spaghetti\n",
+        "+ 200g ***Guanciale***\n",
+        "+ 250g pesce ***Spigola*** in filetti\n",
+        "+ 30g ***pecorino romano*** DOP\n",
+        "+ 2/3 mestoli di ***Acqua*** di cottura della Pasta\n",
+        "+ ***Sale***\n",
+        "+ ***Pepe*** "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "8YrENa4Xe9mU"
+      },
+      "source": [
+        "**Dosi**\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "6iewMLGNe799"
+      },
+      "source": [
+        "Per ***6 Persone***\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "qVLkdM-Hfpjr"
+      },
+      "source": [
+        "Aggiungiamo la variabile *Numero di Persone*"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "f55pZwNRf7b7"
+      },
+      "source": [
+        "persone = \"2\"\n",
+        "persone = \"4\"\n",
+        "persone = \"10\""
+      ],
+      "execution_count": 7,
+      "outputs": []
+    }
+  ]
+}
